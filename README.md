@@ -12,7 +12,9 @@ BALANCE	, BALANCE_FREQUENCY,	PURCHASES, 	ONEOFF_PURCHASES, 	INSTALLMENTS_PURCHAS
 Used libraries like Numpy, seaborn, pandas, matplotlib,scikit learn etc
 ## Methods
 Found the correlation matrix between different features.
+
 k- means clustering is used for grouping the customers into different clusters.
+
 Principal component analysis(PCA) is used to reduce the number of variables 
 ## steps
 1.importing libraries
