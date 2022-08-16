@@ -16,29 +16,17 @@ k- means clustering is used for grouping the customers into different clusters.
 Principal component analysis(PCA) is used to reduce the number of variables 
 ## steps
 1.importing libraries
-
 2.importing dataset
-
 3.Visualising dataset
-
 4. Finding the missing values and replacing them
- 
 5. Checking the duplicate entries
-
 6.Dropping object entries
-
 7.Correlation matrix formation
-
 8.Feature scaling
-
 9. elbow method
- 
 10.Applying k-means
-
 11.visualising clusters
-
 12.applying PCA
-
 13. Visualisation
 ## Findings
 segmented customers into 7 clusters using the elbow mwthod and then applied k-means clustering.
