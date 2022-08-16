@@ -4,7 +4,7 @@ Market Segmentation enables sellers to create targeted marketing messages for a 
 
 
 
-**##dataset##**
+##dataset
  Credit card data is collected from kaggle dataset.
 A customer credit card information dataset can be applied to targeted marketing, customer segmentation, and other similar use cases in the marketing sector.
 
