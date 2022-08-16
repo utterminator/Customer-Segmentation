@@ -15,8 +15,10 @@ Found the correlation matrix between different features.
 k- means clustering is used for grouping the customers into different clusters.
 Principal component analysis(PCA) is used to reduce the number of variables 
 ## steps
-1.importing libraries 
+1.importing libraries
+
 2.importing dataset
+
 3.Visualising dataset
 4. Finding the missing values and replacing them
 5. Checking the duplicate entries
