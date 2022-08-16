@@ -4,23 +4,23 @@ Market Segmentation enables sellers to create targeted marketing messages for a 
 
 
 
-**#dataset**
+**##dataset**
  Credit card data is collected from kaggle dataset.
 A customer credit card information dataset can be applied to targeted marketing, customer segmentation, and other similar use cases in the marketing sector.
 
 
-**#libraries**
+**##libraries**
 Used libraries like Numpy, seaborn, pandas, matplotlib,scikit learn etc
 
 
 
-**#Methods**
+**##Methods**
 Found the correlation matrix between different features.
 k- means clustering is used for grouping the customers into different clusters.
 Principal component analysis(PCA) is used to reduce the number of variables 
 
 
 
-**#Findings**
+**##Findings**
 segmented customers into 7 clusters using the elbow mwthod and then applied k-means clustering.
 For better visualisation, I applied PCA and reduced to two principal componentsand used seaborn library to visualise the different clusters.
