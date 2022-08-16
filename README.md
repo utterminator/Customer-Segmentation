@@ -8,6 +8,9 @@ Market Segmentation enables sellers to create targeted marketing messages for a 
  Credit card data is collected from kaggle dataset.
 A customer credit card information dataset can be applied to targeted marketing, customer segmentation, and other similar use cases in the marketing sector.
 
+**##Attributes information
+BALANCE	, BALANCE_FREQUENCY,	PURCHASES, 	ONEOFF_PURCHASES, 	INSTALLMENTS_PURCHASES	, CASH_ADVANCE	, PURCHASES_FREQUENCY,	ONEOFF_PURCHASES_FREQUENCY, 	PURCHASES_INSTALLMENTS_FREQUENCY	, CASH_ADVANCE_FREQUENCY, 	CASH_ADVANCE_TRX	, PURCHASES_TRX	,CREDIT_LIMIT, 	PAYMENTS, 	MINIMUM_PAYMENTS	, PRC_FULL_PAYMENT	, TENURE
+
 
 **##libraries**
 Used libraries like Numpy, seaborn, pandas, matplotlib,scikit learn etc
